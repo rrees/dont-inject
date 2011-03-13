@@ -1,0 +1,3 @@
+# Don't Inject
+
+Some examples of alternative techniques to traditional OO-style Dependency Injections that are possible with Scala
